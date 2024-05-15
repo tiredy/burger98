@@ -28,6 +28,9 @@ osd.label.bg.color: #DCDAD5
 osd.label.text.color: #000000
 osd.label.text.font: shadow=n
 padding.width: 2
+
+window.active.button.unpressed.image.color: #FF0000
+
 window.active.button.disabled.bg: Solid Sunken
 window.active.button.disabled.bg.color: #DCDAD5
 window.active.button.disabled.bg.border.color: #8F8F8F
